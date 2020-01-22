@@ -1,0 +1,7 @@
+from .Biggs_EXP6_function import Biggs_EXP6_function
+from .Extended_Powell_singular_function import Extended_Powell_singular_function
+from .powell_badly_scaled_function import powell_badly_scaled_function
+from .PenaltyI_function import PenaltyI_function
+from .Trigonometric_function import Trigonometric_function
+from .Extended_Rosenbrock_function import Extended_Rosenbrock_function
+from .Extended_Powell_singular_function import Extended_Powell_singular_function
